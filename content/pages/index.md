@@ -12,13 +12,23 @@ sections:
       Multi-Speciality Dental and Implant Center
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: The Clinic
       elementId: ''
       type: ImageBlock
       url: /images/2022-08-16.jpg
       styles:
         self:
-          borderRadius: medium
+          borderRadius: xx-large
+          padding:
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
+          margin:
+            - mt-2
+            - ml-2
+            - mb-2
+            - mr-2
     badge:
       label: ''
       color: text-primary
