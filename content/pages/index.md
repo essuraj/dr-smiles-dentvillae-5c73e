@@ -19,6 +19,11 @@ sections:
       styles:
         self:
           borderRadius: large
+          padding:
+            - pt-2
+            - pl-2
+            - pb-2
+            - pr-2
     badge:
       label: ''
       color: text-primary
