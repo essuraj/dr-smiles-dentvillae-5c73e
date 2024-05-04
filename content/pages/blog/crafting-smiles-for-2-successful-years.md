@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Crafting smiles for 2 successful years
   metaDescription: 2nd anniversary of Dr. Smiles Dentvillae
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
