@@ -8,9 +8,8 @@ sections:
       text: Welcome
       color: text-dark
     subtitle: ಸ್ವಾಗತ | സ്വാഗതം | స్వాగతం | வணக்கம்
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      We are a small business that thrives on care and excellence
     actions:
       - type: Button
         label: Get started
