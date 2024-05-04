@@ -55,7 +55,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
-      backgroundPosition: left-bottom
+      backgroundPosition: right-top
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/Screenshot 2024-05-04 at 11.19.55 AM.jpg
