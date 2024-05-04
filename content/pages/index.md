@@ -18,7 +18,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Dr. Smiles Dentvillae Multi-speciality Dental and Implant Center
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
