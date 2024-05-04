@@ -15,11 +15,11 @@
         "type": "ThemeStyleHeading"
     },
     "h2": {
-        "size": "5xl",
-        "weight": "normal",
+        "size": "4xl",
+        "weight": "medium",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "tight",
+        "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
     "h3": {
@@ -58,8 +58,8 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "borderRadius": "lg",
+        "shadow": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
