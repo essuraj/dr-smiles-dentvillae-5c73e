@@ -54,7 +54,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
-      backgroundSize: cover
+      backgroundSize: contain
       backgroundPosition: left-bottom
       backgroundRepeat: no-repeat
       opacity: 100
