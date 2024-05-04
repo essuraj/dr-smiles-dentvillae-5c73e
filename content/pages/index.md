@@ -169,7 +169,7 @@ sections:
       and cosmetic services for the entire family.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Root Canal Treatments
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
