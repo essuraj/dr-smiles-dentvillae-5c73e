@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Hi
       color: text-dark
-    subtitle: 'ಸ್ವಾಗತ,സ്വാഗതം,'
+    subtitle: "ಸ್ವಾಗತ,സ്വാഗതം,\_స్వాగతం,"
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
