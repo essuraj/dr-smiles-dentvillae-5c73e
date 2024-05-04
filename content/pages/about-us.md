@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'ಸ್ವಾಗತ, സ്വാഗതം, స్వాగతం, வணக்கம்'
+      text: Welcome
       color: text-dark
     subtitle: ಸ್ವಾಗತ | സ്വാഗതം | స్వాగతం | வணக்கம்
     text: >
