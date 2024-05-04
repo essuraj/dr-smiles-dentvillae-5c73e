@@ -585,22 +585,17 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title:
-      text: Find us on
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
+  - type: AddressSection
+    title: Address Section
+    elementId: ''
     colors: bg-light-fg-dark
-    type: GenericSection
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 seo:
   metaTitle: Home - Dr. Smiles Dentvillae
   metaDescription: Multi-speciality Dental and Implant Center
