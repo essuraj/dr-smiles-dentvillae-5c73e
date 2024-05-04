@@ -106,7 +106,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Tooth Removal
+        title: Teeth Removal
         tagline: ''
         subtitle: This is the item subtitle
         text: |
