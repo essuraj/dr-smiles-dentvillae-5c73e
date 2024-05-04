@@ -34,7 +34,6 @@ sections:
     people:
       - content/data/person1.json
       - content/data/person2.json
-      - content/data/person3.json
       - content/data/person4.json
     actions: []
     variant: three-col-grid
