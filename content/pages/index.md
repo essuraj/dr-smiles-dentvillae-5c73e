@@ -72,7 +72,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/icons8-root-canal-64.png
           styles:
             self:
               borderRadius: x-large
