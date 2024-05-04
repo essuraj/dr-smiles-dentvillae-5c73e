@@ -601,6 +601,17 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+  - type: AddressSection
+    title: Address Section
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 seo:
   metaTitle: Home - Dr. Smiles Dentvillae
   metaDescription: Multi-speciality Dental and Implant Center
