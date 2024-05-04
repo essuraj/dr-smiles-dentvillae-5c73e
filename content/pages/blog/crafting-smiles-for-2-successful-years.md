@@ -3,7 +3,7 @@ type: PostLayout
 title: Crafting Smiles for 2 successful years
 date: '2024-05-03'
 author: content/data/person1.json
-excerpt: 2 year Aniversary
+excerpt: 2 year Anniversary
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
