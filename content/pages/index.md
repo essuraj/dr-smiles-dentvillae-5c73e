@@ -7,7 +7,7 @@ sections:
       text: Crafting thousands of smiles
       color: text-dark
       type: TitleBlock
-    subtitle: Dr. Smiles Dentvillae
+    subtitle: ''
     text: |
       Multi-Speciality Dental and Implant Center
     actions: []
