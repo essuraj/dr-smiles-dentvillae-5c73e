@@ -53,7 +53,7 @@ export const GenericSection: Model = {
             required: false,
             hidden: false,
             localized: false,
-            models: ['FormBlock', 'ImageBlock', 'VideoBlock']
+            models: ['FormBlock', 'ImageBlock', 'VideoBlock', 'MapBlock']
         },
         {
             type: 'model',
