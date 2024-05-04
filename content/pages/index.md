@@ -32,7 +32,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Comprehensive Dental Services
       color: text-dark
       styles:
         self:
