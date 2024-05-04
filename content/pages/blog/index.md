@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/crafting-smiles-for-2-successful-years.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
