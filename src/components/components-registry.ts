@@ -1,6 +1,7 @@
 import dynamic from 'next/dynamic';
 import { ComponentType } from 'react';
 import withPersonalization from './withPersonalization';
+import AddressSection from './sections/AddressSection';
 
 /**
  * The getComponent() function loads a component using dynamic import.
@@ -49,6 +50,7 @@ const components = {
     ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection')),
     PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),
     PricingSection: dynamic(() => import('./sections/PricingSection')),
+    AddressSection: dynamic(() => import('./sections/AddressSection')),
     RecentPostsSection: dynamic(() => import('./sections/RecentPostsSection')),
     SelectFormControl: dynamic(() => import('./blocks/FormBlock/SelectFormControl')),
     TextareaFormControl: dynamic(() => import('./blocks/FormBlock/TextareaFormControl')),
