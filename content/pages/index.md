@@ -25,10 +25,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-2
-            - ml-2
-            - mb-2
-            - mr-2
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       label: ''
       color: text-primary
@@ -106,7 +106,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Tooth Removal
+        title: Teeth Removal
         tagline: ''
         subtitle: This is the item subtitle
         text: |
@@ -383,7 +383,6 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    title: null
     subtitle: What our customers say about us
     items:
       - title: >-
@@ -541,10 +540,7 @@ sections:
           Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
@@ -607,4 +603,5 @@ seo:
       property: 'og:title'
       content: Dr. Smiles Dentvillae
 type: PageLayout
+isDraft: false
 ---
