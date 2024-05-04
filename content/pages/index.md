@@ -647,7 +647,7 @@ sections:
 seo:
   metaTitle: Home - Dr. Smiles Dentvillae
   metaDescription: 'Dr. Smiles Dentvillae, Multi-speciality Dental and Implant Center'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/2022-08-16.jpg
   type: Seo
   addTitleSuffix: true
   metaTags:
