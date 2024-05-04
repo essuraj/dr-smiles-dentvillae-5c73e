@@ -786,7 +786,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Dr. Smiles Dentvillae
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Multi-Speciality Dental and Implant Center
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
