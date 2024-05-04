@@ -48,7 +48,7 @@ sections:
       and cosmetic services for the entire family.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Root Canal Treatments
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
