@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafting thosands of smiles
+      text: Crafting thousands of smiles
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
