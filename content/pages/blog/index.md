@@ -8,7 +8,7 @@ topSections:
       text: Blog
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: News and updates
     posts:
       - content/pages/blog/crafting-smiles-for-2-successful-years.md
     showThumbnail: true
