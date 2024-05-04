@@ -42,8 +42,8 @@ import { VideoBlock } from './VideoBlock';
 import { MetaTag } from './MetaTag';
 import { FooterLinksGroup } from './FooterLinksGroup';
 import { Seo } from './Seo';
-import AddressSection from 'src/components/sections/AddressSection';
-
+import { AddressSection } from './AddressSection';
+ 
 export const allModels = {
     BackgroundImage,
     Badge,
