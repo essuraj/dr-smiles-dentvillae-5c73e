@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafting thousands of smiles
+      text: Your smile is safe in our hands
       color: text-dark
       type: TitleBlock
     subtitle: ''
