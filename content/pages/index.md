@@ -76,7 +76,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Root Canal Treatments
+        tagline: ''
       - title: Teeth Cleaning
         subtitle: The Job Stuff
         text: >-
