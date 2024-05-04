@@ -793,5 +793,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: Dr. Smiles Dentvillae
 type: PageLayout
 ---
