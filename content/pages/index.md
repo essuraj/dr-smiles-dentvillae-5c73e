@@ -588,7 +588,7 @@ sections:
   - type: AddressSection
     title: Address Section
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
