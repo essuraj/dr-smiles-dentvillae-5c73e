@@ -601,6 +601,10 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    media:
+      type: MapBlock
+      altText: altText of the image
+      elementId: ''
   - type: AddressSection
     title: Address Section
     elementId: ''
