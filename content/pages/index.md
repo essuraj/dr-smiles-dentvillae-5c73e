@@ -18,7 +18,7 @@ sections:
       url: /images/2022-08-16.jpg
       styles:
         self:
-          borderRadius: large
+          borderRadius: xx-large
           padding:
             - pt-0
             - pl-0
