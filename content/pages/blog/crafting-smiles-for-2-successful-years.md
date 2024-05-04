@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: 2 year Anniversary
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/WhatsApp Image 2024-05-04 at 16.02.44.jpeg
   altText: Thumbnail
   elementId: ''
   styles:
