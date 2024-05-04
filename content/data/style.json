@@ -16,7 +16,7 @@
     },
     "h2": {
         "size": "4xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
