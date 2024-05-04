@@ -18,7 +18,7 @@ sections:
       url: /images/2022-08-16.jpg
       styles:
         self:
-          borderRadius: medium
+          borderRadius: large
     badge:
       label: ''
       color: text-primary
