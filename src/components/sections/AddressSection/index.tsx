@@ -9,12 +9,12 @@ export default function AddressSection(props) {
 
     return (
         <Section elementId={elementId} className="sb-component-divider-section" colors={colors} styles={styles?.self} {...getDataAttrs(props)}>
-            <div className="relative flex min-h-screen flex-col justify-center overflow-hidden py-6 sm:py-12">
-                <h2>Find us on a map</h2>
+            <div className="relative flex min-h-screen flex-col justify-center overflow-hidden py-2 sm:py-12">
+                <h2 className="text-center">Get in touch</h2>
                 <div>
                     <section>
-                        <div className="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-24 max-w-7xl">
-                            <div className="grid grid-cols-2">
+                        <div className="relative items-center w-full px-5 py-12 mx-auto md:px-12 xs:px-2 lg:px-24 max-w-7xl">
+                            <div className="grid grid-cols-1 gap-1 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1">
                                 <div className="w-full max-w-lg mx-auto my-4 bg-white shadow-xl rounded-xl">
                                     <div className="p-6 lg:text-center">
                                         <label className="mb-8 text-xs font-semibold tracking-widest text-blue-600 uppercase">Come visit us at</label>
@@ -62,7 +62,7 @@ export default function AddressSection(props) {
                         </div>
                     </section>
                 </div>
-                <div className="relative bg-white p-8 shadow-xl ring-1 ring-gray-900/5 m-8 sm:rounded-lg">
+                <div className="relative bg-white p-8 xs:p-2 shadow-xl ring-1 ring-gray-900/5 m-8 xs:x-0 sm:rounded-lg">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d971.6556180146245!2d77.5780719!3d13.0596859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1965bf53acf9%3A0x4124fae4405dfba1!2sDr.%20Smiles%20Dentvillae%20Multi-speciality%20Dental%20and%20Implant%20Center!5e0!3m2!1sen!2sin!4v1714823657105!5m2!1sen!2sin"
                         width="100%"
