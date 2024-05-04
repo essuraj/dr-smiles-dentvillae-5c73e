@@ -163,7 +163,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      We are dedicated to providing you with the highest quality, most
+      comprehensive dental care. We provides a full range of general dentistry
+      and cosmetic services for the entire family.
     items:
       - type: FeaturedItem
         title: Feature Item One
