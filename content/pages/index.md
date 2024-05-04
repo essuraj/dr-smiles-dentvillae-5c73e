@@ -75,7 +75,7 @@ sections:
           url: /images/icons8-root-canal-64.png
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: none
         tagline: ''
       - title: Teeth Cleaning
         subtitle: The Job Stuff
