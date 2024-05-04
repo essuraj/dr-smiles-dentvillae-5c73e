@@ -61,8 +61,7 @@ export const PostLayout: Model = {
             name: 'excerpt',
             label: 'Excerpt',
             required: false,
-            default:
-                'Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.',
+            default: 'Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.',
             hidden: false,
             localized: false,
             group: 'thumbnail'
@@ -95,7 +94,8 @@ export const PostLayout: Model = {
                     'GenericSection',
                     'ImageGallerySection',
                     'PricingSection',
-                    'RecentPostsSection'
+                    'RecentPostsSection',
+                    'AddressSection'
                 ]
             }
         },
@@ -114,8 +114,7 @@ export const PostLayout: Model = {
             type: 'boolean',
             name: 'isFeatured',
             label: 'Exclude from blog feed',
-            description:
-                "Enable this option to avoid a featured post (in a 'Featured posts' section) to appear duplicated in the blog page.",
+            description: "Enable this option to avoid a featured post (in a 'Featured posts' section) to appear duplicated in the blog page.",
             required: false,
             default: false,
             hidden: false,
