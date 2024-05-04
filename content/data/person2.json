@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Dr. Hima Bindu Lanka",
+    "role": "Co-founder",
     "image": {
         "url": "/images/avatar2.svg",
         "altText": "Faizah Chan",
@@ -16,7 +16,7 @@
         "type": "ImageBlock"
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
+    "elementId": "hbl",
     "styles": {
         "self": {
             "padding": [
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }
