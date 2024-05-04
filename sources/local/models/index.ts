@@ -43,7 +43,6 @@ import { MetaTag } from './MetaTag';
 import { FooterLinksGroup } from './FooterLinksGroup';
 import { Seo } from './Seo';
 import { AddressSection } from './AddressSection';
-import { MapBlock } from './MapBlock';
 
 export const allModels = {
     BackgroundImage,
@@ -87,7 +86,6 @@ export const allModels = {
     ThemeStyleLink,
     TitleBlock,
     VideoBlock,
-    MapBlock,
     MetaTag,
     FooterLinksGroup,
     Seo
