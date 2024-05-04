@@ -10,14 +10,7 @@ sections:
     subtitle: ಸ್ವಾಗತ | സ്വാഗതം | స్వాగతం | வணக்கம்
     text: |
       We are a small business that thrives on care and excellence
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
