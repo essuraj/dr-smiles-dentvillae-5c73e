@@ -55,7 +55,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/icons8-root-canal-64.png
+          url: /images/hero2.svg
           altText: Placeholder image
           styles:
             self:
