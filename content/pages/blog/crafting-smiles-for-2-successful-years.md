@@ -3,9 +3,7 @@ type: PostLayout
 title: Crafting Smiles for 2 successful years
 date: '2024-05-03'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 2 year Aniversary
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
