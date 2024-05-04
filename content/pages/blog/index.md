@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Blog
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: News and updates
     posts:
       - content/pages/blog/crafting-smiles-for-2-successful-years.md
     showThumbnail: true
@@ -44,12 +44,12 @@ postFeed:
   title: null
   subtitle: null
   showThumbnail: true
-  showExcerpt: true
+  showExcerpt: false
   showDate: true
   showAuthor: true
   actions: []
   elementId: null
   variant: three-col-grid
-  colors: bg-light-fg-dark
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
 ---

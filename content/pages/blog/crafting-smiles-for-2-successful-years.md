@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: 2 year Anniversary
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/2yr.jpeg
   altText: Thumbnail
   elementId: ''
   styles:
