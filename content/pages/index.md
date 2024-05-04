@@ -16,6 +16,9 @@ sections:
       elementId: ''
       type: ImageBlock
       url: /images/2022-08-16.jpg
+      styles:
+        self:
+          borderRadius: x-small
     badge:
       label: ''
       color: text-primary
