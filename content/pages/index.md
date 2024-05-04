@@ -586,7 +586,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Generic Section With A Form
+      text: Find us on
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
