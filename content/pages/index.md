@@ -12,7 +12,7 @@ sections:
       Multi-Speciality Dental and Implant Center
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: The Clinic
       elementId: ''
       type: ImageBlock
       url: /images/2022-08-16.jpg
