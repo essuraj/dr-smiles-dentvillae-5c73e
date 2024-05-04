@@ -15,6 +15,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/2022-08-16.jpg
     badge:
       label: ''
       color: text-primary
