@@ -11,12 +11,6 @@ sections:
     text: |
       We are a small business that thrives on care and excellence
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
