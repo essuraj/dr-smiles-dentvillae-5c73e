@@ -38,7 +38,7 @@ sections:
       self:
         alignItems: center
 slug: about-us
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
