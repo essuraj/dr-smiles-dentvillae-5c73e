@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Creafting smiles for 2 successful years
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
