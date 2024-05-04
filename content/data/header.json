@@ -25,7 +25,7 @@
         {
             "type": "Link",
             "label": "About Us",
-            "altText": "",
+            "altText": "About Us",
             "url": "/about-us",
             "showIcon": false,
             "icon": "arrowRight",
