@@ -7,15 +7,6 @@ export const MapBlock: Model = {
     labelField: 'altText',
     fields: [
         {
-            type: 'image',
-            name: 'url',
-            label: 'Map',
-            description: 'The URL of the image',
-            required: false,
-            hidden: false,
-            localized: false
-        },
-        {
             type: 'string',
             name: 'altText',
             label: 'Alt text',
