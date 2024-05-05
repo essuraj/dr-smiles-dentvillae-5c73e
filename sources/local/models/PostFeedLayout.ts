@@ -102,8 +102,8 @@ export const PostFeedLayout: Model = {
                     'GenericSection',
                     'ImageGallerySection',
                     'PricingSection',
-                    'RecentPostsSection',
-                    'AddressSection'
+                    'RecentPostsSection'
+                    // 'AddressSection'
                 ]
             }
         },

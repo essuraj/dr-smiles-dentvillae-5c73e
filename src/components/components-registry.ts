@@ -1,7 +1,6 @@
 import dynamic from 'next/dynamic';
 import { ComponentType } from 'react';
 import withPersonalization from './withPersonalization';
-import AddressSection from './sections/AddressSection';
 
 /**
  * The getComponent() function loads a component using dynamic import.
