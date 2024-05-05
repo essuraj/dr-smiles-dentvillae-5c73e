@@ -49,6 +49,7 @@ const components = {
     ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection')),
     PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),
     PricingSection: dynamic(() => import('./sections/PricingSection')),
+    AddressSection: dynamic(() => import('./sections/AddressSection')),
     RecentPostsSection: dynamic(() => import('./sections/RecentPostsSection')),
     SelectFormControl: dynamic(() => import('./blocks/FormBlock/SelectFormControl')),
     TextareaFormControl: dynamic(() => import('./blocks/FormBlock/TextareaFormControl')),

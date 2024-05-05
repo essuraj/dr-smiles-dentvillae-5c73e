@@ -79,7 +79,8 @@ export const PostFeedLayout: Model = {
                     'GenericSection',
                     'ImageGallerySection',
                     'PricingSection',
-                    'RecentPostsSection'
+                    'RecentPostsSection',
+                    'AddressSection'
                 ]
             }
         },
@@ -102,6 +103,7 @@ export const PostFeedLayout: Model = {
                     'ImageGallerySection',
                     'PricingSection',
                     'RecentPostsSection'
+                    // 'AddressSection'
                 ]
             }
         },

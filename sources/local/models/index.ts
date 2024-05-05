@@ -42,12 +42,14 @@ import { VideoBlock } from './VideoBlock';
 import { MetaTag } from './MetaTag';
 import { FooterLinksGroup } from './FooterLinksGroup';
 import { Seo } from './Seo';
+import { AddressSection } from './AddressSection';
 
 export const allModels = {
     BackgroundImage,
     Badge,
     Button,
     CarouselSection,
+    AddressSection,
     CheckboxFormControl,
     Config,
     DividerSection,
