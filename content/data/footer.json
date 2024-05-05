@@ -38,7 +38,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:drsmiles.dentvillae@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
