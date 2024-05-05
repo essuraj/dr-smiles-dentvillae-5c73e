@@ -570,6 +570,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
   - type: DividerSection
     title: Divider
     elementId: ''
