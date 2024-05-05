@@ -376,9 +376,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-8
+          - pl-6
           - pb-16
-          - pr-8
+          - pr-6
         justifyContent: center
       subtitle:
         textAlign: center
@@ -570,6 +570,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
   - type: DividerSection
     title: Divider
     elementId: ''
