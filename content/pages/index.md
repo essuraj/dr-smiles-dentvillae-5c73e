@@ -594,7 +594,7 @@ sections:
           - pb-20
           - pr-20
 seo:
-  metaTitle: Home - Dr. Smiles Dentvillae
+  metaTitle: Home
   metaDescription: Multi-speciality Dental and Implant Center
   socialImage: /images/2022-08-16.jpg
   type: Seo
