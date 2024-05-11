@@ -84,7 +84,7 @@ sections:
       - type: FeaturedItem
         title: Teeth Cleaning
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Sparkle
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
