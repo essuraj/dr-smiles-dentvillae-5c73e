@@ -27,10 +27,10 @@
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
-        "@stackbit/cms-git": "^0.4.12",
+        "@stackbit/cms-git": "^0.4.13",
         "@stackbit/types": "^0.11.14",
         "@types/glob": "^8.1.0",
-        "@types/react": "^18.3.1",
+        "@types/react": "^18.3.2",
         "@types/react-dom": "^18.3.0",
         "autoprefixer": "^10.4.19",
         "prettier": "^3.2.5",
