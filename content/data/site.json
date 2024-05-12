@@ -4,5 +4,10 @@
     "titleSuffix": "Dr Smiles Dentvillae",
     "defaultSocialImage": "/images/2022-08-16.jpg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
