@@ -48,12 +48,7 @@ export default function AddressSection(props) {
                                                 aria-label="Chat on WhatsApp"
                                                 href="https://wa.me/918310248260"
                                             >
-                                                <img
-                                                    style={{ display: 'flex' }}
-                                                    width={'200px'}
-                                                    alt="Chat on WhatsApp"
-                                                    src="https://scontent.whatsapp.net/v/t39.8562-34/420077459_703742575180618_3955965302853713788_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ugZ6xwE4nc0Q7kNvgGAPZ4b&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaIAKJ4P6PrgiHmsSr9hEfetQEbdVjwcAeRL3KBToq6GNc&oe=663C1368"
-                                                />
+                                                <img style={{ display: 'flex' }} width={'200px'} alt="Chat on WhatsApp" src="/images/wchat.png" />
                                             </a>
                                         </address>
                                     </div>
