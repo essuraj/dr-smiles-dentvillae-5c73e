@@ -89,7 +89,7 @@ sections:
           Follow the tutorial to build your first awesome Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/teethcleaning.webp
           altText: Placeholder image
           styles:
             self:
@@ -257,7 +257,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/braces.webp
           altText: Placeholder text
           styles:
             self:
