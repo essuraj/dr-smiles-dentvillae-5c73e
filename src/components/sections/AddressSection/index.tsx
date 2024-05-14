@@ -13,7 +13,7 @@ export default function AddressSection(props) {
                 <h2 className="text-center">Get in touch</h2>
                 <div>
                     <section>
-                        <div className="relative items-center w-full px-5 py-12 mx-auto md:px-12 xs:px-2 lg:px-24 max-w-7xl xs:px-5">
+                        <div className="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-24 max-w-7xl xs:px-2">
                             <div className="grid grid-cols-1 gap-1 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1">
                                 <div className="w-full max-w-lg mx-auto my-4 bg-white shadow-xl rounded-xl">
                                     <div className="p-6 lg:text-center">
