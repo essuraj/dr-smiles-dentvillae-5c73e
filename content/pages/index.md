@@ -64,7 +64,7 @@ sections:
           A Treatment to repair and save a badly damaged tooth instead of
           removing it
         text: |
-          Find out more
+          ....
         image:
           type: ImageBlock
           url: /images/hero2.svg
