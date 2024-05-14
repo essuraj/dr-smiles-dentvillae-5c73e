@@ -60,7 +60,9 @@ sections:
       - type: FeaturedItem
         title: Root Canal Treatments
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          A Treatment to repair and save a badly damaged tooth instead of
+          removing it
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
