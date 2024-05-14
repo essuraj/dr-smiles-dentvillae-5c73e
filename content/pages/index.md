@@ -72,16 +72,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Find out more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
