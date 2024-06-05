@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Multi-Speciality Dental and Implant Center
+      ....
     actions: []
     media:
       altText: The Clinic
