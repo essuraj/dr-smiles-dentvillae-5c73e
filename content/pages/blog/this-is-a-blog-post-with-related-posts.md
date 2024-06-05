@@ -33,9 +33,55 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Root Canal Treatment
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >+
+
+      Root canal treatment involves removing infected or damaged pulp from the
+      tooth, cleaning, disinfecting, and sealing it. Afterward, a crown is
+      placed over the treated tooth to restore its strength and protect it from
+      further damage, ensuring a healthy and functional smile for years to come.
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: RCT
+      url: 'https://www.youtube.com/watch?v=pQsd5nc6hAA'
+      autoplay: true
+      loop: true
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: How can we help?
       color: text-dark
-    subtitle: ''
+    subtitle: >-
+      Reach                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+      your dentist for your root canal treatment consulation.
     text: ''
     actions: []
     media:
@@ -90,12 +136,12 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     flexDirection: row
 ---
-**Understanding Root Canal Treatment**
+# **Understanding Root Canal Treatment**
 
 Root canal treatment is a common dental procedure aimed at saving a severely damaged or infected tooth. It becomes necessary when the inner part of a tooth, known as the pulp, becomes inflamed or infected due to deep decay, repeated dental procedures on the tooth, or trauma.
 
@@ -130,6 +176,3 @@ Root canal treatment is a common dental procedure aimed at saving a severely dam
 Root canal treatment is a safe and effective way to save a damaged tooth and relieve pain. If you're experiencing symptoms such as severe toothache or sensitivity, don't hesitate to consult your dentist to see if root canal treatment is right for you.
 
 For more information or to schedule an appointment, contact us today!
-
-
-
