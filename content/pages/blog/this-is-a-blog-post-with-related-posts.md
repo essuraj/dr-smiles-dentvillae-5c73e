@@ -80,8 +80,7 @@ bottomSections:
       text: How can we help?
       color: text-dark
     subtitle: >-
-      Reach
-      to                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+      Reach                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
       your dentist for your root canal treatment consulation.
     text: ''
     actions: []
