@@ -7,7 +7,7 @@ sections:
       text: Your smile is safe in our hands
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Multi-speciality Dental and Implant Center
     text: |
       ....
     actions: []
