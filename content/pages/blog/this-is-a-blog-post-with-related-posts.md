@@ -90,11 +90,13 @@ bottomSections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Root canal treatment involves removing infected or damaged pulp from the
+      tooth, cleaning, disinfecting, and sealing it. Afterward, a crown is
+      placed over the treated tooth to restore its strength and protect it from
+      further damage, ensuring a healthy and functional smile for years to come.
+
     actions: []
     media:
       type: VideoBlock
