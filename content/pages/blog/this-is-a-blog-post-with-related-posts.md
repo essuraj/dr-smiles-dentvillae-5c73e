@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Root-Canal-Treatment.jpg
-  altText: Thumbnail
+  altText: Root Canal Treatment
   elementId: ''
   styles:
     self:
