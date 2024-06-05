@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Multi-speciality Dental and Implant Center
-    text: >
+    text: >+
       #### **Welcome to Dr. Smiles Dentvillae - Your Trusted Dental Care Partner
       in Bangalore, India!**
 
@@ -22,12 +22,6 @@ sections:
 
       ##### **Schedule Your Appointment Today!**
 
-
-      Whether you're due for a routine check-up or in need of specialized dental
-      care, we invite you to experience the difference at  Dr. Smiles Dentvillae
-      . Schedule your appointment today and take the first step towards
-      achieving a healthy, beautiful smile that you can confidently share with
-      the world!
     actions: []
     media:
       altText: The Clinic
