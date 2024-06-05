@@ -127,7 +127,7 @@ bottomSections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: medium
           justifyContent: flex-start
     colors: bg-neutral-fg-dark
 slug: this-is-a-blog-post-with-related-posts
