@@ -106,17 +106,28 @@ sections:
       - type: FeaturedItem
         title: Teeth Cleaning
         tagline: ''
-        subtitle: Sparkle
-        text: |
-          Follow the tutorial to build your first awesome Stackbit site.
+        subtitle: ''
+        text: >
+          Teeth cleaning, is a procedure performed by a dentist to remove
+          plaque, tartar, and stains from the teeth. It helps prevent cavities,
+          gum disease, and promotes overall oral health.
         image:
           type: ImageBlock
-          url: /images/teethcleaning.webp
+          url: /images/Laser Dentistry ( Using Diode Laser from Germany ).jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -135,7 +146,7 @@ sections:
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/ext.jpg
           altText: Placeholder image
           styles:
             self:
