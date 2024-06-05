@@ -79,7 +79,10 @@ bottomSections:
       type: TitleBlock
       text: How can we help?
       color: text-dark
-    subtitle: ''
+    subtitle: >-
+      Reach
+      to                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+      your dentist for your root canal treatment consulation.
     text: ''
     actions: []
     media:
