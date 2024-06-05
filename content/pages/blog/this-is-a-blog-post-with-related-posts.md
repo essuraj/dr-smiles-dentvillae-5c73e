@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
 
       Root canal treatment involves removing infected or damaged pulp from the
