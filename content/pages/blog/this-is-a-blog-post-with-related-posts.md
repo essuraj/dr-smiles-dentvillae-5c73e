@@ -127,50 +127,6 @@ bottomSections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Root canal treatment
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: >+
-
-      Root canal treatment involves removing infected or damaged pulp from the
-      tooth, cleaning, disinfecting, and sealing it. Afterward, a crown is
-      placed over the treated tooth to restore its strength and protect it from
-      further damage, ensuring a healthy and functional smile for years to come.
-
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
 slug: this-is-a-blog-post-with-related-posts
 isFeatured: false
 isDraft: false
