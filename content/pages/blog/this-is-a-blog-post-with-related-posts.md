@@ -99,10 +99,41 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+**Understanding Root Canal Treatment**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Root canal treatment is a common dental procedure aimed at saving a severely damaged or infected tooth. It becomes necessary when the inner part of a tooth, known as the pulp, becomes inflamed or infected due to deep decay, repeated dental procedures on the tooth, or trauma.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Indications for Root Canal Treatment**
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Severe Toothache:** Persistent tooth pain, especially when chewing or applying pressure.
+
+*   **Sensitivity:** Heightened sensitivity to hot or cold temperatures, even after the temperature is removed.
+
+*   **Swelling:** Swelling and tenderness in the nearby gums.
+
+**The Procedure: What to Expect**
+
+1.  **Diagnosis:** Your dentist will first conduct a thorough examination, which may include X-rays, to assess the extent of damage and determine if root canal treatment is necessary.
+
+2.  **Treatment:** During the procedure, the infected or inflamed pulp is removed. The inside of the tooth is then cleaned, disinfected, and sealed to prevent further infection.
+
+3.  **Restoration:** After the root canal, your dentist may recommend placing a crown or filling to restore the tooth's strength and function.
+
+**Pros of Root Canal Treatment**
+
+*   **Pain Relief:** Root canal treatment alleviates the severe pain associated with infected teeth, providing long-term relief.
+
+*   **Preservation:** It allows you to keep your natural tooth, maintaining the integrity of your smile and preventing adjacent teeth from shifting.
+
+**Duration and Aftercare**
+
+*   **Time:** The procedure typically takes one or two visits, depending on the severity of the infection and the complexity of the case.
+
+*   **Recovery:** You may experience mild discomfort after the procedure, which can usually be managed with over-the-counter pain relievers. Follow your dentist's instructions for proper care to ensure a smooth recovery.
+
+Root canal treatment is a safe and effective way to save a damaged tooth and relieve pain. If you're experiencing symptoms such as severe toothache or sensitivity, don't hesitate to consult your dentist to see if root canal treatment is right for you.
+
+For more information or to schedule an appointment, contact us today!
+
+
+
