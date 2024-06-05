@@ -13,7 +13,6 @@ sections:
       in Bangalore, India!**
 
 
-      \<div style="text-align: left">```
 
       At Dr. Smiles Dentvillae, we are committed to providing compassionate and
       comprehensive dental care to our patients in Bangalore and beyond. With a
@@ -21,10 +20,9 @@ sections:
       dentists and staff strive to create a warm and welcoming environment where
       you can feel at ease during your dental visits.
 
-      ```\</div>
-
 
       ##### **Schedule Your Appointment Today!**
+
 
     actions: []
     media:
