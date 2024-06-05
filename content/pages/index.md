@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         title: Teeth Cleaning
         tagline: ''
-        subtitle: Sparkle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
