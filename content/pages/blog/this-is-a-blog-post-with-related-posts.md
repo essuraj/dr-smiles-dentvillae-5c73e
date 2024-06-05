@@ -113,6 +113,8 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
+        elementId: Submit
       action: /.netlify/functions/submission_created
       elementId: contact-form
       styles:
@@ -124,9 +126,10 @@ bottomSections:
             - pr-6
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
+          borderWidth: 2
+          borderRadius: medium
+          justifyContent: flex-start
+    colors: bg-neutral-fg-dark
 slug: this-is-a-blog-post-with-related-posts
 isFeatured: false
 isDraft: false
