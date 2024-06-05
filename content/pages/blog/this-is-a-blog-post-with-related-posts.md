@@ -95,7 +95,7 @@ styles:
   self:
     flexDirection: row
 ---
-**Understanding Root Canal Treatment**
+# **Understanding Root Canal Treatment**
 
 Root canal treatment is a common dental procedure aimed at saving a severely damaged or infected tooth. It becomes necessary when the inner part of a tooth, known as the pulp, becomes inflamed or infected due to deep decay, repeated dental procedures on the tooth, or trauma.
 
@@ -130,6 +130,3 @@ Root canal treatment is a common dental procedure aimed at saving a severely dam
 Root canal treatment is a safe and effective way to save a damaged tooth and relieve pain. If you're experiencing symptoms such as severe toothache or sensitivity, don't hesitate to consult your dentist to see if root canal treatment is right for you.
 
 For more information or to schedule an appointment, contact us today!
-
-
-
