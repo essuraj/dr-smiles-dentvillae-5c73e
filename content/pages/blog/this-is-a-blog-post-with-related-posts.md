@@ -49,7 +49,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: RCT
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
