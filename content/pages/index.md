@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Multi-speciality Dental and Implant Center
     text: >
-      # **Welcome to Dr. Smiles Dentvillae - Your Trusted Dental Care Partner in
-      Bangalore, India!**
+      #### **Welcome to Dr. Smiles Dentvillae - Your Trusted Dental Care Partner
+      in Bangalore, India!**
 
 
       At Dr. Smiles Dentvillae, we are committed to providing compassionate and
