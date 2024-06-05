@@ -75,7 +75,7 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /blog/this-is-a-blog-post-with-related-post
+            url: /blog/this-is-a-blog-post-with-related-posts
             showIcon: false
             icon: arrowRight
             iconPosition: right
