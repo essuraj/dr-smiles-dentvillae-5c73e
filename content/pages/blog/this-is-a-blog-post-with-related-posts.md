@@ -114,6 +114,7 @@ bottomSections:
         iconPosition: right
         style: primary
         showIcon: true
+        elementId: Submit
       action: /.netlify/functions/submission_created
       elementId: contact-form
       styles:
