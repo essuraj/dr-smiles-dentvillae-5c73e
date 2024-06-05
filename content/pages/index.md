@@ -67,7 +67,7 @@ sections:
           ....
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Root-Canal-Treatment.jpg
           altText: Placeholder image
           styles:
             self:
