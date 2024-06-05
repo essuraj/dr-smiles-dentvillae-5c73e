@@ -113,6 +113,7 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: false
       action: /.netlify/functions/submission_created
       elementId: contact-form
       styles:
