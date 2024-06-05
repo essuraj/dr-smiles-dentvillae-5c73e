@@ -63,16 +63,24 @@ sections:
         subtitle: >-
           A Treatment to repair and save a badly damaged tooth instead of
           removing it
-        text: |
-          Find out more
+        text: ''
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Root-Canal-Treatment.jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /blog
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
