@@ -20,32 +20,6 @@ sections:
       you can feel at ease during your dental visits.
 
 
-      **Why Choose Us?**
-
-
-      *   **Expertise:** Our skilled team of dentists brings years of experience
-      and expertise in various dental treatments, ensuring that you receive the
-      highest quality of care tailored to your unique needs.
-
-
-      *   **State-of-the-Art Facilities:** We pride ourselves on staying at the
-      forefront of dental technology and innovation, utilizing advanced
-      equipment and techniques to deliver superior results and comfortable
-      experiences for our patients.
-
-
-      *   **Comprehensive Services:** From routine check-ups and cleanings to
-      complex restorative procedures and cosmetic treatments, we offer a wide
-      range of dental services to address all your oral health needs under one
-      roof.
-
-
-      *   **Personalized Care:** Your oral health is our top priority. We take
-      the time to listen to your concerns, answer your questions, and develop
-      personalized treatment plans that prioritize your comfort, convenience,
-      and long-term oral health goals.
-
-
       ### **Schedule Your Appointment Today!**
 
 
