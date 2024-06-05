@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Root Canal Treatment
       color: text-dark
       styles:
         self:
