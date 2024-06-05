@@ -126,7 +126,7 @@ bottomSections:
             - pr-6
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 2
           borderRadius: medium
           justifyContent: flex-start
     colors: bg-neutral-fg-dark
