@@ -20,7 +20,7 @@ sections:
       you can feel at ease during your dental visits.
 
 
-      ### **Schedule Your Appointment Today!**
+      ##### **Schedule Your Appointment Today!**
 
 
       Whether you're due for a routine check-up or in need of specialized dental
