@@ -63,8 +63,7 @@ sections:
         subtitle: >-
           A Treatment to repair and save a badly damaged tooth instead of
           removing it
-        text: |
-          ....
+        text: ''
         image:
           type: ImageBlock
           url: /images/Root-Canal-Treatment.jpg
