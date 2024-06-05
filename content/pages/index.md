@@ -113,7 +113,7 @@ sections:
           gum disease, and promotes overall oral health.
         image:
           type: ImageBlock
-          url: /images/teethcleaning.webp
+          url: /images/Laser Dentistry ( Using Diode Laser from Germany ).jpg
           altText: Placeholder image
           styles:
             self:
