@@ -50,7 +50,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: RCT
-      url: /in.pinterest.com/pin/957437202012705604/
+      url: 'https://www.youtube.com/watch?v=pQsd5nc6hAA'
       autoplay: true
       loop: true
       muted: true
