@@ -112,7 +112,7 @@ bottomSections:
         label: Submit
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         showIcon: true
       action: /.netlify/functions/submission_created
       elementId: contact-form
