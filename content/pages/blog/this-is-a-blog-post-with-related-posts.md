@@ -111,7 +111,7 @@ bottomSections:
         type: SubmitButtonFormControl
         label: Submit
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         showIcon: true
       action: /.netlify/functions/submission_created
