@@ -107,13 +107,10 @@ sections:
         title: Teeth Cleaning
         tagline: ''
         subtitle: ''
-        text: >+
-
-          Teeth cleaning, also known as dental prophylaxis, is a procedure
-          performed by a dentist or dental hygienist to remove plaque, tartar,
-          and stains from the teeth. It helps prevent cavities, gum disease, and
-          promotes overall oral health.
-
+        text: >
+          Teeth cleaning, is a procedure performed by a dentist to remove
+          plaque, tartar, and stains from the teeth. It helps prevent cavities,
+          gum disease, and promotes overall oral health.
         image:
           type: ImageBlock
           url: /images/teethcleaning.webp
