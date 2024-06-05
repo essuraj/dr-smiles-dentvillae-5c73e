@@ -7,9 +7,23 @@ sections:
       text: Your smile is safe in our hands
       color: text-dark
       type: TitleBlock
-    subtitle: ''
-    text: |
-      Multi-Speciality Dental and Implant Center
+    subtitle: Multi-speciality Dental and Implant Center
+    text: >+
+      #### **Welcome to Dr. Smiles Dentvillae - Your Trusted Dental Care Partner
+      in Bangalore, India!**
+
+
+
+      At Dr. Smiles Dentvillae, we are committed to providing compassionate and
+      comprehensive dental care to our patients in Bangalore and beyond. With a
+      focus on excellence and patient satisfaction, our team of experienced
+      dentists and staff strive to create a warm and welcoming environment where
+      you can feel at ease during your dental visits.
+
+
+      ##### **Schedule Your Appointment Today!**
+
+
     actions: []
     media:
       altText: The Clinic
@@ -75,7 +89,7 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /blog
+            url: /blog/this-is-a-blog-post-with-related-posts
             showIcon: false
             icon: arrowRight
             iconPosition: right
