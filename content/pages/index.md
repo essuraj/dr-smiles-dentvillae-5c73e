@@ -194,7 +194,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/shutterstock_56198956.webp
           altText: Placeholder text
           styles:
             self:
