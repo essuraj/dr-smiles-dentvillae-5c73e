@@ -87,7 +87,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Root-Canal-Treatment.jpg
+          url: /images/Root-Canal-Therapy.jpg
           altText: Placeholder image
           styles:
             self:
