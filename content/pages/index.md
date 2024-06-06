@@ -153,7 +153,7 @@ sections:
       - type: FeaturedItem
         title: Teeth Removal
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
