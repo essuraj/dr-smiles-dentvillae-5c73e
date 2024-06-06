@@ -25,7 +25,7 @@ sections:
     actions:
       - type: Button
         label: SCHEDULE YOUR APPOINTMENT TODAY!
-        altText: ''
+        altText: SCHEDULE YOUR APPOINTMENT TODAY!
         url: /
         showIcon: false
         icon: arrowRight
