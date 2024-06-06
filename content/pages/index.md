@@ -169,7 +169,7 @@ sections:
         actions:
           - type: Button
             label: Know more
-            altText: ''
+            altText: Know more
             url: /
             showIcon: false
             icon: arrowRight
