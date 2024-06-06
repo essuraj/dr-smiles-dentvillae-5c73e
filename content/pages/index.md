@@ -24,7 +24,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Schedule your Appointment Today
         altText: ''
         url: /
         showIcon: false
