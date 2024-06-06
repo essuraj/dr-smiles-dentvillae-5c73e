@@ -154,8 +154,11 @@ sections:
         title: Teeth Removal
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+        text: >
+          Teeth extraction is a dental procedure in which a tooth is removed
+          from its socket in the jawbone. It is typically performed when a tooth
+          is severely damaged, decayed, or causing other dental issues that
+          cannot be resolved through other treatments.
         image:
           type: ImageBlock
           url: /images/ext.jpg
