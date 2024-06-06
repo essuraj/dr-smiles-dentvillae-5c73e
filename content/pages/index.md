@@ -81,12 +81,7 @@ sections:
       - type: FeaturedItem
         title: Root Canal Treatments
         tagline: ''
-        subtitle: >-
-          A Treatment to repair and save a badly damaged tooth instead of
-          removing it. Root canal treatment is a dental procedure used to treat
-          infection or damage within the pulp of a tooth. It involves removing
-          the infected or damaged tissue, cleaning the area, and sealing it to
-          prevent further infection.
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
