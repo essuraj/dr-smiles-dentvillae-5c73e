@@ -20,7 +20,7 @@ sections:
       you can feel at ease during your dental visits.
 
 
-      ##### **Schedule Your Appointment Today!**
+      ##### ****
 
     actions:
       - type: Button
