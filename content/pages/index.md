@@ -613,17 +613,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: AddressSection
     title: Address Section
     elementId: ''
@@ -635,6 +624,17 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
   metaTitle: Home
   metaDescription: Multi-speciality Dental and Implant Center
