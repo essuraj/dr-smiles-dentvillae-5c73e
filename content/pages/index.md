@@ -22,7 +22,16 @@ sections:
 
       ##### **Schedule Your Appointment Today!**
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       altText: The Clinic
       elementId: ''
