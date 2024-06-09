@@ -329,7 +329,7 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: /blog/Orthodontic%20Braces/
             showIcon: false
             icon: arrowRight
             iconPosition: right
