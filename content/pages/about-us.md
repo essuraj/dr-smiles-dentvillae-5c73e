@@ -32,7 +32,6 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/person1.json
       - content/data/person2.json
       - content/data/person-3.json
     actions: []
