@@ -1,11 +1,9 @@
 ---
 type: PostLayout
 title: Root canal treatment
-date: '2022-10-10'
+date: '2024-06-06'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Understanding Root Canal Treatment
 featuredImage:
   type: ImageBlock
   url: /images/Root-Canal-Treatment.jpg
@@ -135,11 +133,12 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaTitle: ' Root Canal Treatment'
+  metaDescription: ' Root Canal Treatment'
   addTitleSuffix: false
   metaTags: []
-colors: bg-neutralAlt-fg-dark
+  socialImage: /images/Root-Canal-Therapy.jpg
+colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
