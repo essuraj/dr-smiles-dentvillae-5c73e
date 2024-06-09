@@ -2,9 +2,7 @@
 type: PostLayout
 title: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 date: '2024-06-09'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
