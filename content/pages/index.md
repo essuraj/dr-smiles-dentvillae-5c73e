@@ -171,7 +171,8 @@ sections:
           - type: Button
             label: Know more
             altText: Know more
-            url: /
+            url: >-
+              /blog/Understanding%20Tooth%20Removal:%20When%20Extraction%20Becomes%20Necessary/
             showIcon: false
             icon: arrowRight
             iconPosition: right
