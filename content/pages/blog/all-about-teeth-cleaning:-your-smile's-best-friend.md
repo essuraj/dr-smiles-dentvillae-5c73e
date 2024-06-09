@@ -6,7 +6,7 @@ excerpt: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 featuredImage:
   type: ImageBlock
   url: /images/Laser Dentistry ( Using Diode Laser from Germany ).jpg
-  altText: Thumbnail
+  altText: teeth cleaning
   elementId: ''
   styles:
     self:
