@@ -1,19 +1,6 @@
 {
     "name": "Dr. Hima Bindu Lanka",
     "role": "Co-founder, Prosthodontist and Implantologist",
-    "image": {
-        "url": "/images/fdafsafds.jpeg",
-        "altText": "Rhonda Piper",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
