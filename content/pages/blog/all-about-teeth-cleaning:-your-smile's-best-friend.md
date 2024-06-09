@@ -47,47 +47,6 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Teeth cleaning
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Section with a video subtitle
-    text: ''
-    actions: []
-    media:
-      type: VideoBlock
-      title: Teeth cleaning
-      url: >-
-        iframe
-        src="https://assets.pinterest.com/ext/embed.html?id=1125055550650914268"
-        height="377" width="345" frameborder="0" scrolling="no" ></iframe>
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
 slug: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 isFeatured: false
 isDraft: false
