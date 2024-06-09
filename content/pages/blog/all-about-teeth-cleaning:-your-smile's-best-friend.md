@@ -55,7 +55,8 @@ seo:
   metaTitle: teeth cleaning
   metaDescription: teeth cleaning
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
   socialImage: /images/Laser Dentistry ( Using Diode Laser from Germany ).jpg
 colors: bg-light-fg-dark
 styles:
