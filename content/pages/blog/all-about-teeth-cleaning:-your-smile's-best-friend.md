@@ -53,7 +53,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: teeth cleaning
-  metaDescription: lorem-ipsum
+  metaDescription: teeth cleaning
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
