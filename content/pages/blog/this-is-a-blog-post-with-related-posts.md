@@ -134,7 +134,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: ' Root Canal Treatment'
-  metaDescription: lorem-ipsum
+  metaDescription: ' Root Canal Treatment'
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
