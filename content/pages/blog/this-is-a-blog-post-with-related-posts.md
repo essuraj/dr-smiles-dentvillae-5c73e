@@ -4,18 +4,6 @@ title: Root canal treatment
 date: '2024-06-06'
 author: content/data/person1.json
 excerpt: Understanding Root Canal Treatment
-featuredImage:
-  type: ImageBlock
-  url: /images/Root-Canal-Therapy.jpg
-  altText: Root Canal Treatment
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider
