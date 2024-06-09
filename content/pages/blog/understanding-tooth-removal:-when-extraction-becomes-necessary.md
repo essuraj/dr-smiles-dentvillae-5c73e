@@ -2,12 +2,10 @@
 type: PostLayout
 title: 'Understanding Tooth Removal: When Extraction Becomes Necessary'
 date: '2024-06-09'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'Teeth Removal '
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/tooth-extraction-dental-service-1024x768.jpg
   altText: Thumbnail
   elementId: ''
   styles:
