@@ -132,7 +132,7 @@ styles:
     flexDirection: row
 featuredImage:
   type: ImageBlock
-  url: /images/hero2.svg
+  url: /images/Root-Canal-Therapy.jpg
   altText: Image alt text placeholder
   elementId: ''
   styles:
