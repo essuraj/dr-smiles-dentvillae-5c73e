@@ -27,26 +27,6 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -142,6 +122,26 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
 slug: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 isFeatured: false
 isDraft: false
