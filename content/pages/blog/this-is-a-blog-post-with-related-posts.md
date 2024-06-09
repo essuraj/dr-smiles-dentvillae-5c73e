@@ -126,7 +126,7 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/Root-Canal-Therapy.jpg
-colors: bg-neutral-fg-dark
+colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
