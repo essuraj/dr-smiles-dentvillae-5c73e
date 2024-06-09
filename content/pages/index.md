@@ -134,7 +134,8 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: >-
+              /blog/All%20About%20Teeth%20Cleaning:%20Your%20Smile's%20Best%20Friend/
             showIcon: false
             icon: arrowRight
             iconPosition: right
