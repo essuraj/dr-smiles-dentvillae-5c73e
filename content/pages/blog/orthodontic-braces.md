@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Orthodontic Braces
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/dsffgsdgf.png
   altText: Thumbnail
   elementId: ''
   styles:
