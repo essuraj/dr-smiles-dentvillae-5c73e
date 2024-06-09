@@ -2,7 +2,6 @@
 type: PostLayout
 title: 'Understanding Tooth Removal: When Extraction Becomes Necessary'
 date: '2024-06-09'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
