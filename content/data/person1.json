@@ -1,7 +1,7 @@
 {
     "name": "Dr. Krishnaprasad G",
     "role": "Co-founder, Chief Dental Surgeon",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutralAlt-fg-dark",
     "styles": {
         "self": {
             "padding": [
