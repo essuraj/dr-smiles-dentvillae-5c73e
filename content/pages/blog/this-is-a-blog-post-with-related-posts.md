@@ -133,7 +133,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: ' Root Canal Treatment'
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
