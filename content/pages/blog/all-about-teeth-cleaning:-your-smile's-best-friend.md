@@ -82,14 +82,14 @@ bottomSections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Stackbit site.
+          Learn from the tutorial and build your first awesome Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
@@ -106,14 +106,14 @@ bottomSections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+          Follow the tutorial to build your first awesome Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
