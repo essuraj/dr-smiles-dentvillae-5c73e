@@ -139,8 +139,6 @@ featuredImage:
     self:
       borderRadius: medium
 ---
-# **Understanding Root Canal Treatment**
-
 Root canal treatment is a common dental procedure aimed at saving a severely damaged or infected tooth. It becomes necessary when the inner part of a tooth, known as the pulp, becomes inflamed or infected due to deep decay, repeated dental procedures on the tooth, or trauma.
 
 **Indications for Root Canal Treatment**
