@@ -60,7 +60,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Teeth cleaning
       url: >-
         iframe
         src="https://assets.pinterest.com/ext/embed.html?id=1125055550650914268"
