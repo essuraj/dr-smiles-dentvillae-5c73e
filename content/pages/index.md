@@ -310,7 +310,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Orthodontic Braces
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Orthodontic braces treatment involves the use of dental appliances,
