@@ -50,7 +50,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: teeth cleaning
+      text: Teeth cleaning
       color: text-dark
       styles:
         self:
