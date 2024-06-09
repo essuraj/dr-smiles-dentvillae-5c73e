@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Root canal treatment
+title: Understanding Root Canal Treatment
 date: '2024-06-06'
 author: content/data/person1.json
 excerpt: Understanding Root Canal Treatment
