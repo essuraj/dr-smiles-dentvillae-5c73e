@@ -1,21 +1,9 @@
 ---
 type: PostLayout
-title: Root canal treatment
+title: Understanding Root Canal Treatment
 date: '2024-06-06'
 author: content/data/person1.json
 excerpt: Understanding Root Canal Treatment
-featuredImage:
-  type: ImageBlock
-  url: /images/Root-Canal-Treatment.jpg
-  altText: Root Canal Treatment
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider
@@ -142,9 +130,15 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+featuredImage:
+  type: ImageBlock
+  url: /images/Root-Canal-Therapy.jpg
+  altText: Image alt text placeholder
+  elementId: ''
+  styles:
+    self:
+      borderRadius: medium
 ---
-# **Understanding Root Canal Treatment**
-
 Root canal treatment is a common dental procedure aimed at saving a severely damaged or infected tooth. It becomes necessary when the inner part of a tooth, known as the pulp, becomes inflamed or infected due to deep decay, repeated dental procedures on the tooth, or trauma.
 
 **Indications for Root Canal Treatment**
