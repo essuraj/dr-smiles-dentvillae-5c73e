@@ -311,7 +311,7 @@ sections:
       - type: FeaturedItem
         title: Orthodontic Braces
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Orthodontic braces treatment involves the use of dental appliances,
           typically consisting of brackets and wires, to straighten and align
