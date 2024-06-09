@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Understanding Root Canal Treatment
 featuredImage:
   type: ImageBlock
-  url: /images/Root-Canal-Treatment.jpg
+  url: /images/Root-Canal-Therapy.jpg
   altText: Root Canal Treatment
   elementId: ''
   styles:
