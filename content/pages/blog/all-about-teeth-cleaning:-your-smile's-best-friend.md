@@ -61,7 +61,10 @@ bottomSections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        iframe
+        src="https://assets.pinterest.com/ext/embed.html?id=1125055550650914268"
+        height="377" width="345" frameborder="0" scrolling="no" ></iframe>
       autoplay: true
       loop: true
       muted: true
