@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'Understanding Tooth Removal: When Extraction Becomes Necessary'
 date: '2024-06-09'
-excerpt: 'Understanding Tooth Removal: When Extraction Becomes Necessary'
+excerpt: 'Tooth Removal '
 featuredImage:
   type: ImageBlock
   url: /images/tooth-extraction-dental-service-1024x768.jpg
