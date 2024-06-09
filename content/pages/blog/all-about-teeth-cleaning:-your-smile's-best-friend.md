@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'All About Teeth Cleaning: Your Smile''s Best Friend'
 date: '2024-06-09'
-excerpt: 'All About Teeth Cleaning: Your Smile''s Best Friend'
+excerpt: Teeth Cleaning
 featuredImage:
   type: ImageBlock
   url: /images/Laser Dentistry ( Using Diode Laser from Germany ).jpg
