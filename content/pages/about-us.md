@@ -32,8 +32,8 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/person2.json
       - content/data/person-3.json
+      - content/data/person2.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
