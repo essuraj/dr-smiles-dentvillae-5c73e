@@ -312,8 +312,12 @@ sections:
         title: Orthodontic Braces
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          Orthodontic braces treatment involves the use of dental appliances,
+          typically consisting of brackets and wires, to straighten and align
+          teeth. Over time, the braces apply gentle pressure to move the teeth
+          into the desired position, resulting in improved dental alignment and
+          bite.
         image:
           type: ImageBlock
           url: /images/braces.webp
