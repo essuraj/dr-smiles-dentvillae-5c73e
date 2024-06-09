@@ -3,9 +3,7 @@ type: PostLayout
 title: 'Straightening Smiles: Everything You Need to Know About Orthodontic Braces'
 date: '2024-06-09'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Orthodontic Braces
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
