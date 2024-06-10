@@ -54,7 +54,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Laser DentalT reatment
+  metaTitle: Laser Dental Treatment
   metaDescription: Laser Dental Treatment
   addTitleSuffix: false
   metaTags: []
