@@ -479,7 +479,7 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: /blog/Dental%20Digital%20X-Rays/
             showIcon: false
             icon: arrowRight
             iconPosition: right
