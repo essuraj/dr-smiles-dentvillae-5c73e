@@ -54,7 +54,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Laser DentalT reatment
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
