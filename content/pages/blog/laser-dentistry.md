@@ -4,7 +4,6 @@ title: >-
   Unlocking the Power of Dental Laser Treatment: Your Guide to Enhanced Oral
   Health
 date: '2024-06-10'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
