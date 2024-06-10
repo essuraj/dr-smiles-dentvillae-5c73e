@@ -7,7 +7,7 @@ date: '2024-06-10'
 excerpt: Laser Dentistry
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/rtetetfgd.PNG
   altText: Thumbnail
   elementId: ''
   styles:
