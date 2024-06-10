@@ -421,8 +421,12 @@ sections:
         title: Laser Treatment
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          Dental laser treatment involves using specialized lasers to perform
+          various dental procedures, such as gum contouring, removing decay, or
+          treating gum disease. It offers precision, reduced discomfort, and
+          faster healing compared to traditional methods, making it a popular
+          option for many dental procedures.
         image:
           type: ImageBlock
           url: /images/53d7d9c1316d15ad027605b1f6236d5c.jpg
