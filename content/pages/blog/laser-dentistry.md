@@ -58,6 +58,7 @@ seo:
   metaDescription: Laser Dental Treatment
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/rtetetfgd.PNG
 colors: bg-light-fg-dark
 styles:
   self:
