@@ -351,8 +351,12 @@ sections:
         title: Dental Implants
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          Dental implant treatment involves the surgical placement of artificial
+          tooth roots made of titanium into the jawbone. Once the implants
+          integrate with the bone, they provide a stable foundation for dental
+          prosthetics like crowns, bridges, or dentures, restoring both function
+          and aesthetics to the smile.
         image:
           type: ImageBlock
           url: /images/jonathan-borba-W9YEY6G8LVM-unsplash.jpg
