@@ -350,7 +350,7 @@ sections:
       - type: FeaturedItem
         title: Dental Implants
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
