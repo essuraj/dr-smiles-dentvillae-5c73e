@@ -203,7 +203,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Know more
             altText: ''
             url: /
             showIcon: false
