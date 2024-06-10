@@ -5,7 +5,7 @@ date: '2024-06-10'
 excerpt: Dental Digital X-Rays
 featuredImage:
   type: ImageBlock
-  url: /images/DSC08555.JPG
+  url: /images/shutterstock_2473617061_edited.jpeg
   altText: Thumbnail
   elementId: ''
   styles:
