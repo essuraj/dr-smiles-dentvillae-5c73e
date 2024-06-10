@@ -349,7 +349,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Dental Implants
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Stackbit site.
