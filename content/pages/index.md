@@ -220,7 +220,9 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/Looking for New Dentures or Denture Repairs Clinic in
+            Logan_.jpg
           altText: Placeholder text
           styles:
             self:
