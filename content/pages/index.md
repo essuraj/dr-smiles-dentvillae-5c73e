@@ -440,7 +440,7 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: /blog/Laser%20dentistry/
             showIcon: false
             icon: arrowRight
             iconPosition: right
