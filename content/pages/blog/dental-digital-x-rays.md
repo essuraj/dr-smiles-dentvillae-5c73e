@@ -2,7 +2,6 @@
 type: PostLayout
 title: 'Dental Digital X-Rays: A Modern Approach to Dental Diagnosis'
 date: '2024-06-10'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
