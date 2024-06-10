@@ -8,7 +8,7 @@ excerpt: Laser Dentistry
 featuredImage:
   type: ImageBlock
   url: /images/rtetetfgd.PNG
-  altText: Thumbnail
+  altText: Laser Dentistry
   elementId: ''
   styles:
     self:
