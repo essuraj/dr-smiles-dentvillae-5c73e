@@ -353,7 +353,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/jonathan-borba-W9YEY6G8LVM-unsplash.jpg
           altText: Placeholder text
           styles:
             self:
