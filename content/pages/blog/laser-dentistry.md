@@ -55,7 +55,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Laser DentalT reatment
-  metaDescription: lorem-ipsum
+  metaDescription: Laser Dental Treatment
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
