@@ -20,9 +20,18 @@ sections:
       you can feel at ease during your dental visits.
 
 
-      ##### **Schedule Your Appointment Today!**
+      ##### ****
 
-    actions: []
+    actions:
+      - type: Button
+        label: SCHEDULE YOUR APPOINTMENT TODAY!
+        altText: SCHEDULE YOUR APPOINTMENT TODAY!
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       altText: The Clinic
       elementId: ''
@@ -72,13 +81,16 @@ sections:
       - type: FeaturedItem
         title: Root Canal Treatments
         tagline: ''
-        subtitle: >-
-          A Treatment to repair and save a badly damaged tooth instead of
-          removing it
-        text: ''
+        subtitle: ''
+        text: >+
+          Root canal treatment is a dental procedure used to treat infection or
+          damage within the pulp of a tooth. It involves removing the infected
+          or damaged tissue, cleaning the area, and sealing it to prevent
+          further infection.
+
         image:
           type: ImageBlock
-          url: /images/Root-Canal-Treatment.jpg
+          url: /images/Root-Canal-Therapy.jpg
           altText: Placeholder image
           styles:
             self:
@@ -122,7 +134,8 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: >-
+              /blog/All%20About%20Teeth%20Cleaning:%20Your%20Smile's%20Best%20Friend/
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -141,9 +154,12 @@ sections:
       - type: FeaturedItem
         title: Teeth Removal
         tagline: ''
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+        subtitle: ''
+        text: >
+          Teeth extraction is a dental procedure in which a tooth is removed
+          from its socket in the jawbone. It is typically performed when a tooth
+          is severely damaged, decayed, or causing other dental issues that
+          cannot be resolved through other treatments.
         image:
           type: ImageBlock
           url: /images/ext.jpg
@@ -151,7 +167,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: Know more
+            url: >-
+              /blog/Understanding%20Tooth%20Removal:%20When%20Extraction%20Becomes%20Necessary/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -170,12 +196,21 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/shutterstock_56198956.webp
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -194,12 +229,23 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/Looking for New Dentures or Denture Repairs Clinic in
+            Logan_.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -223,7 +269,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -247,7 +302,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -271,7 +335,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -284,10 +357,14 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Orthodontic Braces
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        tagline: ''
+        subtitle: ''
+        text: >
+          Orthodontic braces treatment involves the use of dental appliances,
+          typically consisting of brackets and wires, to straighten and align
+          teeth. Over time, the braces apply gentle pressure to move the teeth
+          into the desired position, resulting in improved dental alignment and
+          bite.
         image:
           type: ImageBlock
           url: /images/braces.webp
@@ -295,7 +372,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /blog/Orthodontic%20Braces/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -308,18 +394,31 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Dental Implants
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        tagline: ''
+        subtitle: ''
+        text: >
+          Dental implant treatment involves the surgical placement of artificial
+          tooth roots made of titanium into the jawbone. Once the implants
+          integrate with the bone, they provide a stable foundation for dental
+          prosthetics like crowns, bridges, or dentures, restoring both function
+          and aesthetics to the smile.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/jonathan-borba-W9YEY6G8LVM-unsplash.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -343,7 +442,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -367,7 +475,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /blog/Dental%20Digital%20X-Rays/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -380,18 +497,64 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Laser Treatment
+        tagline: ''
+        subtitle: ''
+        text: >
+          Dental laser treatment involves using specialized lasers to perform
+          various dental procedures, such as gum contouring, removing decay, or
+          treating gum disease. It offers precision, reduced discomfort, and
+          faster healing compared to traditional methods, making it a popular
+          option for many dental procedures.
+        image:
+          type: ImageBlock
+          url: /images/53d7d9c1316d15ad027605b1f6236d5c.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /blog/Laser%20dentistry/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Aligners
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/shutterstock_2473307437.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Know more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
