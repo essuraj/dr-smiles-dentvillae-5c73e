@@ -259,7 +259,7 @@ sections:
       - type: FeaturedItem
         title: Dental Fillings
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
