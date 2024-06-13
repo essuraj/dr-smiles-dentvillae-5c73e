@@ -264,7 +264,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Cavity Fillings Santa Ana CA _ Tooth Filling _ Fillings.jpg
           altText: Placeholder text
           styles:
             self:
