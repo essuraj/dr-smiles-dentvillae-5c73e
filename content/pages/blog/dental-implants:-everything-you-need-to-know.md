@@ -2,9 +2,7 @@
 type: PostLayout
 title: 'Dental Implants: Everything You Need to Know'
 date: '2024-06-20'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Dental Implant
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
