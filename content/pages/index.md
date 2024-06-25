@@ -432,7 +432,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Crown and Bridge
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
