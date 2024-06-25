@@ -470,7 +470,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/odonto (2).png
+          url: /images/Digital X-rays.jpg
           altText: Placeholder text
           styles:
             self:
