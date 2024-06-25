@@ -329,8 +329,13 @@ sections:
         title: Cosmetic Smile Design
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >+
+          Cosmetic Smile Design enhances smiles through procedures like digital
+          smile designs, veneers, and laminates , improving tooth color,
+          alignment, shape and overall appearance for a more confident smile.
+
+
+
         image:
           type: ImageBlock
           url: /images/odonto (53).png
