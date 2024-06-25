@@ -535,7 +535,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Aligners
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Stackbit site.
