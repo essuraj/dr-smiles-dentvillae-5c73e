@@ -477,8 +477,12 @@ sections:
         title: Digital X-Ray
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          Dental digital x-rays are diagnostic images of teeth and surrounding
+          structures captured using digital sensors instead of traditional film.
+          They offer clear, detailed images quickly and with minimal radiation
+          exposure, aiding dentists in diagnosing and planning treatments
+          effectively.
         image:
           type: ImageBlock
           url: /images/Digital X-rays.jpg
