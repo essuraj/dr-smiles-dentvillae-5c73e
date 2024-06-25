@@ -306,7 +306,8 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: >-
+              /blog/A%20Guide%20to%20Pediatric%20Dentistry:%20Keeping%20Little%20Smiles%20Bright/
             showIcon: false
             icon: arrowRight
             iconPosition: right
