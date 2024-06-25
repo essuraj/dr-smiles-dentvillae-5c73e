@@ -2,7 +2,6 @@
 type: PostLayout
 title: 'Dental Implants: Everything You Need to Know'
 date: '2024-06-20'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
