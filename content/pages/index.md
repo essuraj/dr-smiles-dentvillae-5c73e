@@ -292,7 +292,7 @@ sections:
       - type: FeaturedItem
         title: Pediatric Dentistry
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
