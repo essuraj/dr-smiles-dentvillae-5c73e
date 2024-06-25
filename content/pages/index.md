@@ -441,8 +441,11 @@ sections:
         title: Crown and Bridge
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          Dental crowns and bridges are prosthetic devices used to restore
+          damaged or missing teeth. Crowns cover a single damaged tooth, while
+          bridges replace one or more missing teeth by anchoring onto
+          neighboring teeth or implants, restoring both function and aesthetics.
         image:
           type: ImageBlock
           url: /images/Zirconia Crown Cost in Hyderabad.jpg
