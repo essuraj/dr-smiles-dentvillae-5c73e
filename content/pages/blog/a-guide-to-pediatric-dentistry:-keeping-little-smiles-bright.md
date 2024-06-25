@@ -64,9 +64,9 @@ styles:
     flexDirection: col
 author: content/data/person2.json
 ---
-
-
 As a parent, you want the best for your child's health, and that includes their dental care. Pediatric dentistry focuses on the oral health of infants, children, and adolescents, ensuring they maintain healthy teeth and gums from an early age. Let's delve into what pediatric dentistry entails, its indications, procedures, benefits, duration, and post-treatment care to keep those little smiles shining.
+
+![](/images/84.png)
 
 **Indications for Pediatric Dentistry:**
 
@@ -117,7 +117,3 @@ Investing in pediatric dentistry offers numerous benefits for your child's oral 
 The duration of pediatric dental treatment varies depending on the specific needs of each child. Following treatment, it's essential to maintain good oral hygiene habits at home and attend regular dental check-ups to ensure continued oral health. Encourage your child to brush their teeth twice a day, floss daily, limit sugary snacks and drinks, and wear any prescribed orthodontic appliances as instructed.
 
 In conclusion, pediatric dentistry plays a vital role in ensuring the oral health and happiness of your child. By prioritizing regular dental visits and instilling good oral hygiene habits early on, you can help your child maintain a bright and healthy smile for years to come. If you have any concerns about your child's dental health, Visit Dr. Smiles Dentvillae ,Sahakar Nagar, Bangalore
-
-
-
-
