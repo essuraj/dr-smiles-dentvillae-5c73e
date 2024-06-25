@@ -540,7 +540,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/shutterstock_2473307437.jpg
+          url: /images/orto (39).png
           altText: Placeholder text
           styles:
             self:
