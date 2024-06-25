@@ -28,10 +28,6 @@ bottomSections:
           - pb-3
           - pr-3
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: How can we help?
-      color: text-dark
     subtitle: Section with a form subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
