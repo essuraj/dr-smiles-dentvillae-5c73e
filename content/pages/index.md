@@ -325,7 +325,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Cosmetic Smile Design
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
