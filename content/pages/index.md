@@ -551,8 +551,12 @@ sections:
         title: Aligners
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+
+          Dental aligners are transparent, removable trays that gradually move
+          teeth into desired positions, similar to braces. They are custom-made
+          for each patient and are nearly invisible, offering a discreet and
+          comfortable orthodontic treatment option.
         image:
           type: ImageBlock
           url: /images/orto (39).png
