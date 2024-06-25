@@ -5,7 +5,7 @@ date: '2024-06-20'
 excerpt: Dental Implant
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/odonto (31).png
   altText: Thumbnail
   elementId: ''
   styles:
