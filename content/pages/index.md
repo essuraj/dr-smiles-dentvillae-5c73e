@@ -433,7 +433,7 @@ sections:
       - type: FeaturedItem
         title: Crown and Bridge
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
