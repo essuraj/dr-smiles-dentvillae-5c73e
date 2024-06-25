@@ -91,6 +91,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/odonto (31).png
 colors: bg-light-fg-dark
 styles:
   self:
