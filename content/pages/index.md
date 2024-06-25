@@ -191,7 +191,7 @@ sections:
       - type: FeaturedItem
         title: Teeth Whitening
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
@@ -223,8 +223,8 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Dentures
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
@@ -258,13 +258,13 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Dental Fillings
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Cavity Fillings Santa Ana CA _ Tooth Filling _ Fillings.jpg
           altText: Placeholder text
           styles:
             self:
@@ -291,13 +291,15 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Pediatric Dentistry
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        tagline: ''
+        subtitle: ''
+        text: >
+          Pediatric dentistry focuses on the oral health of children from
+          infancy through adolescence, including dental care and education
+          tailored to their specific needs and growth stages.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/70.png
           altText: Placeholder text
           styles:
             self:
@@ -306,7 +308,8 @@ sections:
           - type: Button
             label: Know more
             altText: ''
-            url: /
+            url: >-
+              /blog/A%20Guide%20to%20Pediatric%20Dentistry:%20Keeping%20Little%20Smiles%20Bright/
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -324,13 +327,13 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Cosmetic Smile Design
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/odonto (53).png
           altText: Placeholder text
           styles:
             self:
@@ -431,13 +434,13 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Crown and Bridge
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Zirconia Crown Cost in Hyderabad.jpg
           altText: Placeholder text
           styles:
             self:
@@ -464,13 +467,13 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Digital X-Ray
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Digital X-rays.jpg
           altText: Placeholder text
           styles:
             self:
@@ -534,13 +537,13 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Aligners
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/shutterstock_2473307437.jpg
+          url: /images/orto (39).png
           altText: Placeholder text
           styles:
             self:
