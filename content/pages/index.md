@@ -293,15 +293,10 @@ sections:
         title: Pediatric Dentistry
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           Pediatric dentistry focuses on the oral health of children from
           infancy through adolescence, including dental care and education
-          tailored to their specific needs and growth stages. It aims to promote
-          lifelong dental habits and ensure a positive dental experience for
-          young patients.
-
-
-
+          tailored to their specific needs and growth stages.
         image:
           type: ImageBlock
           url: /images/70.png
