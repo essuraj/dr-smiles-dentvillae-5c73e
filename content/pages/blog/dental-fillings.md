@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: '/images/Composite Fillings_ Pros & Cons, Procedure and Cost.jpg'
   altText: Thumbnail
   elementId: ''
   styles:
